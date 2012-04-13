@@ -1,6 +1,6 @@
 import numpy as np
 import csv
-
+#git-test
 vintage=csv.reader(open('Daily Currencies.csv'))
 
 # Create a dictionary that stores the data. The keys of the dictionary are the variable names
